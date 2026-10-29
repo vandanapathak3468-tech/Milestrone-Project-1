@@ -30,3 +30,7 @@ Deployment link will be added after publishing.
 
 ## Screenshots
 Project screenshots will be added here.
+## Project Purpose
+This website was created as a web development
+assignment to practice multi-page website design,
+Tailwind CSS, and responsive layouts.
